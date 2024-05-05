@@ -1,4 +1,14 @@
 # K-means
-### Python 3.10
-### 2023/07/16
-### by tz-yin
+K-means algorithm written in Python with calling specific module.
+
+
+## Enviroment
+### Python:
+* Python 3.10
+* numpy
+* pylab
+* math
+
+
+## Upload Date
+2024/05/05
